@@ -1,0 +1,6 @@
+{
+  "name": "TaskFlow Workspace",
+  "description": "An interactive React Native & Expo developer portfolio platform for TaskFlow, featuring a live functional mobile emulator, downloadable production-ready mobile source files, and customized resume assets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
